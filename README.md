@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @FrancescoTheBest
-- 👾 I'm a SkyForce Developer & Executive
+- 👾 I'm a SkyForce Manager & Developer
 - 👀 I’m interested in IT
 - 🌱 I’m currently learning Java, JavaScript, TypeScript, discord.js
-- 💞️ I’m looking to collaborate on nothing at the moment :3
+- 💞️ I’m looking to collaborate on a new discord bot project
 - 📫 How to reach me 
 - 😄 Pronouns: He/Him
 
