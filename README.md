@@ -19,7 +19,7 @@ You can click the Preview link to take a look at your changes.
 <a href="#"><img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" /></a>
 <h1 align="center">FrancescoTheBest</h1>
 <p align="center">
-  <b>Student<br>
+  <b>Student</b><br>
 </p>
 
 </div>
