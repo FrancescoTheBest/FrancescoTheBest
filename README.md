@@ -17,8 +17,6 @@ You can click the Preview link to take a look at your changes.
 <img src="https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white" />
 <a href="#"><img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff" /></a>
 <a href="#"><img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" /></a>
-
-</div>
 <h1 align="center">FrancescoTheBest</h1>
 <p align="center">
   <b>Student<br>
