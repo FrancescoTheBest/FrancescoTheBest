@@ -21,5 +21,7 @@ You can click the Preview link to take a look at your changes.
 <p align="center">
   <b>Student</b><br>
 </p>
-
+<p>
+  Hi, I'm Francesco and currently I'm an <b>IT student</b>.
+</p>
 </div>
