@@ -28,6 +28,8 @@ class FrancescoTheBest extends Profile {
 
 const me = new FrancescoTheBest();
 ```
+# EMPLOYMENTS
+I'm actually a **SkyForce Manager and Developer**.
 
 <div align="center">
 <h1>My Statistics</h1>
