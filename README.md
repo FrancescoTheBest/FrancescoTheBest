@@ -32,15 +32,3 @@ const me = new FrancescoTheBest();
 # EMPLOYMENTS
 I'm actually a student interested in IT projects, want to collaborate? <b>Write me an email!</b>
 I've been a **SkyForce CoCeo and Developer Coordinator**.
-
-<div align="center">
-<h1>My Statistics</h1>
-
-<br/>
-<p align="center">
-  <a href="https://github.com/francescothebest/">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=francescothebest&show_icons=true&theme=gruvbox&hide_border=true" />
-  </a>
-</p>
-<br>
-</div>
