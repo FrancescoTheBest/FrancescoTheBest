@@ -30,5 +30,5 @@ class FrancescoTheBest extends Profile {
 const me = new FrancescoTheBest();
 ```
 # EMPLOYMENTS
-I'm actually a student interested in IT projects, want to collaborate? <b>Write me an email!</b>
+I'm actually a student interested in IT projects, want to collaborate? <b>Write me an email!</b> <br>
 I've been a **SkyForce CoCeo and Developer Coordinator**.
