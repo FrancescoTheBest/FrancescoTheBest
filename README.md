@@ -20,6 +20,7 @@ class FrancescoTheBest extends Profile {
     this.location = "Italy";
     this.languages = ["JavaScript", "Typescript", "Python", "Java"];
     this.discord = "francescothebest";
+    this.mail = "francescothebest.ds@gmail.com";
   }
   name() {
     return this.name;
@@ -29,7 +30,8 @@ class FrancescoTheBest extends Profile {
 const me = new FrancescoTheBest();
 ```
 # EMPLOYMENTS
-I'm actually a **SkyForce Manager and Developer**.
+I'm actually a student interested in IT projects, want to collaborate? <b>Write me an email!</b>
+I've been a **SkyForce CoCeo and Developer Coordinator**.
 
 <div align="center">
 <h1>My Statistics</h1>
