@@ -40,7 +40,6 @@ I've been a **SkyForce CoCeo and Developer Coordinator**.
 <p align="center">
   <a href="https://github.com/francescothebest/">
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=francescothebest&show_icons=true&theme=gruvbox&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=raffreddat0&theme=gruvbox&hide_border=true" />
   </a>
 </p>
 <br>
